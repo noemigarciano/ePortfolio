@@ -1,1 +1,21 @@
-hi! I am Noemi Garciano a pioneering comsci student!
+# ePortfolio
+
+# Description
+This ePortfolio showcases my projects, skills, and experiences as a Computer Science student. It serves as a platform to demonstrate my knowledge, creativity, and problem-solving abilities through various personal and academic projects.
+
+# Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Git and GitHub for version control
+- GitHub Pages for deployment
+
+# Features
+- A clean, responsive design for easy navigation.
+- A projects section highlighting key academic and personal works.
+- Contact information for potential collaborators or employers.
+
+# How to Use
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/ePortfolio.git
